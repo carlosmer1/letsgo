@@ -8,4 +8,4 @@
 
 ## 240sx
 
-'drifting code'
+> drifting all day
